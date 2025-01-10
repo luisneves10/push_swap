@@ -5,9 +5,8 @@ This project involves creating a program to sort numbers using a set of specific
 
 ## 🚀 Features
 
-- Efficiently sorts numbers using a limited set of operations.
+- Sorts numbers using a limited set of operations.
 - Focuses on optimizing the number of moves required for sorting.
-- Implements and demonstrates various sorting algorithms.
 
 ## 🛠️ Technologies Used
 
@@ -18,11 +17,15 @@ This project involves creating a program to sort numbers using a set of specific
 To run this game on your local machine, follow these steps:
 
 1. **Clone the Repository**:
+   ```bash
+   https://github.com/luisneves10/push_swap.git
 2. **Navigate to the project Directory:**
+   ```bash
+   cd push_swap
 3. **Compile the code**<br>
     ```bash
     make
-3. **Run the program**<br>
+4. **Run the program**<br>
   Execute the program with a sequence of numbers:
    ```bash
     ./push_swap 3 2 5 4 1
